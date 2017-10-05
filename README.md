@@ -6,3 +6,4 @@ So you can see in etape1.pdf the class diagram from wich the code is generated.
 ## How to generate code architecture from diagrams ?
 It's pretty easy, currently heaps of software are able to generate code from diagrams which is very useful when you want to have a global vision of the future code.
 
+[StarUML](http://staruml.io) - The software used
